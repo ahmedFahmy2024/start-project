@@ -1,0 +1,22 @@
+{
+  "LocaleLayout": {
+    "title": "بداية المشروع"
+  },
+  "HomePage": {
+    "title": "أهلا بالعالم!"
+  },
+  "ProductsPage": {
+    "title": "منتجات"
+  },
+  "ProductsDetails": {
+    "title": "تفاصيل المنتج"
+  },
+  "Breadcrumbs": {
+    "home": "الرئيسية",
+    "about": "عنا"
+  },
+  "LocaleSwitcher": {
+    "label": "تغيير اللغة",
+    "locale": "{locale, select, ar {العربية} en {الإنجليزية} other {غير معروف}}"
+  }
+}

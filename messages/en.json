@@ -1,0 +1,22 @@
+{
+  "LocaleLayout": {
+    "title": "start-project"
+  },
+  "HomePage": {
+    "title": "Hello world!"
+  },
+  "ProductsPage": {
+    "title": "Products"
+  },
+  "ProductsDetails": {
+    "title": "Product details"
+  },
+  "Breadcrumbs": {
+    "home": "Home",
+    "about": "About"
+  },
+"LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, ar {Arabic} en {English} other {Unknown}}"
+  }
+}
